@@ -1,0 +1,30 @@
+[
+{
+		"name": "Children of Mycoria",
+		"isNationalWonder": true,
+		"production": 15,
+		"science": 5,
+		"gold": 5000,
+		"culture": 15,
+		"cityStrength": 20,
+		"cost": 1,
+    "uniqueTo": "Mycoria"
+		"uniques": ["Provides [1] [Digital Storage Space]",
+			"Provides [1] [Digital Storage Space] <after discovering [Info Networks]>",
+			"Indicates the capital city"
+		],
+		"civilopediaText": [
+			{
+				"text": "The beating heart of Mycoria, the true inheritors of this planet."
+			}
+		]
+	},
+{
+  "name": "War Chamber",
+  "replaces": "Frontier Armory",
+  "uniqueTo": "Mycoria",
+  "cost": 1,
+  "uniques": ["New [All] units start with [1500000000] Experience [in this city]"]
+  "requiredTech": "Frontier Armanents",
+},
+]
