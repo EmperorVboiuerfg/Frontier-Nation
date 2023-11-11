@@ -24,7 +24,7 @@
   "replaces": "Frontier Armory",
   "uniqueTo": "Mycoria",
   "cost": 1,
-  "uniques": ["New [All] units start with [1500000000] Experience [in this city]","Enables you to build Tame Xeno units"],
+  "uniques": ["Military", "New [All] units start with [1500000000] Experience [in this city]", "Enables you to build Tame Xeno units"],
   "requiredTech": "Frontier Armanents",
 },
 ]
