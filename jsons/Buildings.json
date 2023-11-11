@@ -9,8 +9,15 @@
 		"cityStrength": 20,
 		"cost": 1,
     "uniqueTo": "Mycoria"
-		"uniques": ["Provides [4] [Digital Storage Space]",
+		"uniques": ["Provides [9] [Digital Storage Space]",
 			"Provides [1] [Digital Storage Space] <after discovering [Info Networks]>",
+			"Provides [10] [Yairmite]",
+			"Provides [10] [Gravitix]",
+			"Provides [10] [Antimatter]",
+			"Provides [10] [Ulframite]",
+			"Provides [10] [Vitamass]",
+			"Provides [10] [Promethine]",
+			"Provides [10] [Titanium]",
 			"Indicates the capital city"
 		],
 		"civilopediaText": [
