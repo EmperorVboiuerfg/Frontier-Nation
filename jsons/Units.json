@@ -34,5 +34,6 @@
       "May capture killed [All] units",
       "Self-destructs when attacking",
       "[+50]% Strength <vs [Infantry] units>",
-	    },
+		 ]
+	},
 ]
