@@ -9,7 +9,7 @@
 		"cityStrength": 20,
 		"cost": 1,
     "uniqueTo": "Mycoria"
-		"uniques": ["Provides [1] [Digital Storage Space]",
+		"uniques": ["Provides [4] [Digital Storage Space]",
 			"Provides [1] [Digital Storage Space] <after discovering [Info Networks]>",
 			"Indicates the capital city"
 		],
@@ -24,7 +24,7 @@
   "replaces": "Frontier Armory",
   "uniqueTo": "Mycoria",
   "cost": 1,
-  "uniques": ["Military", "New [All] units start with [1500000000] Experience [in this city]", "Enables you to build Tame Xeno units"],
+  "uniques": ["Military", "New [Military] units start with [1500000000] Experience [in this city]", "Enables you to build Tame Xeno units"],
   "requiredTech": "Frontier Armanents",
 },
 ]
