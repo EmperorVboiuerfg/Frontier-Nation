@@ -5,7 +5,7 @@
 		"leaderName": "The Overlord",
 		"adjective": ["Myceliates"],
 		"startBias": ["Mycelium"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Culture",
 
 		"startIntroPart1": "An ancient, collective hivemind of fungal organisms who were previously driven to near extinction by the precursor species inhabiting this planet.",
 		"startIntroPart2": "With the disappearance of the precursor species, the Myceliates arises once again, under the leadership of a new, mysterious intelligence",
@@ -16,15 +16,15 @@
 		"introduction": "",
 
 		"neutralHello": "",
-		"hateHello": "You insult our people by standing in our city, what do you want?",
+		"hateHello": "",
 
 		"tradeRequest": "Perhaps we can sign a trading agreement that will mutually benefit us.",
 
-		"outerColor": [0, 49, 83],
-		"innerColor": [250, 249, 246],
-		"uniqueName": "The Fort of the Plains",
-		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "[+20]% growth [in all cities] <when not at war>", "Starts with [Tradition] adopted", "Cannot build [Settler] units","[+150]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
-		"cities": ["Hochburg"],
+		"outerColor": [197, 0, 255 ],
+		"innerColor": [74, 35, 90],
+		"uniqueName": "Fungal Hivemind",
+		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "[+20]% growth [in all cities] <when not at war>", "Cannot build [Colonizer] units","[+150]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
+		"cities": ["Mycoria"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
 
