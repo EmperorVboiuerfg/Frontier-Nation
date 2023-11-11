@@ -4,6 +4,7 @@
 		"unitType": "Xeno Ranged Land",
 		"uniqueTo": "Mycoria",
 		"movement": 1,
+		"strength": 70,
     "range": 2,
     "rangeStrength": 90,
 		"cost": 10,
