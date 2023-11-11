@@ -25,6 +25,6 @@
   "uniqueTo": "Mycoria",
   "cost": 1,
   "uniques": ["Military", "New [Military] units start with [1500000000] Experience [in this city]", "Enables you to build Tame Xeno units"],
-  "requiredTech": "Frontier Armanents",
+  "requiredTech": "Frontier Armaments",
 },
 ]
