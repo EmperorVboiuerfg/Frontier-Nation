@@ -1,6 +1,6 @@
 [
 {
-		"name": "Children of Mycoria",
+		"name": "The Citadel",
 		"isNationalWonder": true,
 		"production": 15,
 		"science": 5,
@@ -8,9 +8,9 @@
 		"culture": 15,
 		"cityStrength": 20,
 		"cost": 1,
-    "uniqueTo": "Mycoria"
-		"uniques": ["Provides [9] [Digital Storage Space]",
-			"Provides [1] [Digital Storage Space] <after discovering [Info Networks]>",
+    "uniqueTo": "Citadellium"
+		"uniques": ["Provides [20] [Digital Storage Space]",
+			"Provides [10] [Digital Storage Space] <after discovering [Info Networks]>",
 			"Provides [10] [Yairmite]",
 			"Provides [10] [Gravitix]",
 			"Provides [10] [Antimatter]",
@@ -22,11 +22,11 @@
 		],
 	},
 {
-  "name": "Myceliate Breeding Chamber",
+  "name": "Citadellium Armaments",
   "replaces": "Frontier Armory",
-  "uniqueTo": "Mycoria",
+  "uniqueTo": "Citadellium",
   "cost": 1,
-  "uniques": ["Military", "New [Military] units start with [1500000000] Experience [in this city]", "Enables you to build Tame Xeno units"],
+  "uniques": ["Military", "New [Military] units start with [1500000000] Experience [in this city]"],
   "requiredTech": "Frontier Armaments",
 },
 ]
