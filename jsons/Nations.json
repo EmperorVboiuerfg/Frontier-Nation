@@ -1,17 +1,17 @@
 [
   	{
 		//nations
-		"name": "Mycoria",
-		"leaderName": "The Overlord",
-		"adjective": ["Myceliates"],
-		"startBias": ["Mycelium"],
+		"name": "Citadellium",
+		"leaderName": "The Keeper",
+		"adjective": ["Citadellians"],
+		"startBias": ["Hill"],
 		"preferredVictoryType": "Culture",
 
-		"startIntroPart1": "An ancient, collective hivemind of fungal organisms who were previously driven to near extinction by the precursor species inhabiting this planet.",
-		"startIntroPart2": "With the disappearance of the precursor species, the Myceliates arises once again, under the leadership of a new, mysterious intelligence",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
 
 		"declaringWar": "",
-		"attacked": "The pests before you couldn't vanquish us, what makes you think you could?",
+		"attacked": "",
 		"defeated": ".",
 		"introduction": "",
 
@@ -22,9 +22,9 @@
 
 		"outerColor": [197, 0, 255 ],
 		"innerColor": [74, 35, 90],
-		"uniqueName": "Fungal Hivemind",
-		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "[+20]% growth [in all cities] <when not at war>", "Cannot build [Colonizer] units","[+150]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
-		"cities": ["Mycoria"],
+		"uniqueName": "Fortress Upon Stars",
+		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "[+20]% growth [in all cities] <when not at war>", "Cannot build [Colonizer] units"],
+		"cities": ["Citadellium"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
 
