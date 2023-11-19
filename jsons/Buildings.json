@@ -3,9 +3,10 @@
 		"name": "The Citadel",
 		"isNationalWonder": true,
 		"production": 15,
-		"science": 5,
+		"science": 15,
 		"gold": 5000,
-		"culture": 15,
+		"culture": 50,
+	        "faith": 50,
 		"cityStrength": 20,
 		"cost": 1,
     "uniqueTo": "Citadellium"
