@@ -20,8 +20,8 @@
 
 		"tradeRequest": "Perhaps we can sign a trading agreement that will mutually benefit us.",
 
-		"outerColor": [197, 0, 255 ],
-		"innerColor": [74, 35, 90],
+		"outerColor": [255, 255, 255 ],
+		"innerColor": [100, 149, 237],
 		"uniqueName": "Fortress Upon Stars",
 		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "[+20]% growth [in all cities] <when not at war>", "Cannot build [Colonizer] units"],
 		"cities": ["Citadellium"],
