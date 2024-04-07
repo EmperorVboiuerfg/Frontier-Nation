@@ -1,10 +1,10 @@
 [
   	{
 		//nations
-		"name": "Citadellium",
-		"leaderName": "The Keeper",
-		"adjective": ["Citadellians"],
-		"startBias": ["Hill"],
+		"name": "Mycoresele",
+		"leaderName": "Mycoresele Hive",
+		"adjective": ["Mycoreselian"],
+		"startBias": ["Mycelium"],
 		"preferredVictoryType": "Culture",
 
 		"startIntroPart1": "",
@@ -22,9 +22,9 @@
 
 		"outerColor": [255, 255, 255 ],
 		"innerColor": [100, 149, 237],
-		"uniqueName": "Fortress Upon Stars",
+		"uniqueName": "Beings of Mycelium",
 		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "[+20]% growth [in all cities] <when not at war>", "Cannot build [Colonizer] units"],
-		"cities": ["Citadellium"],
+		"cities": ["Mycoresele"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
 
