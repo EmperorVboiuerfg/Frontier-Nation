@@ -1,9 +1,9 @@
 [
   	{
 		//nations
-		"name": "Mycoresele",
-		"leaderName": "Mycoresele Hive",
-		"adjective": ["Mycoreselian"],
+		"name": "Mycoreseele",
+		"leaderName": "Mycoreseele Hive",
+		"adjective": ["Mycoreseelian"],
 		"startBias": ["Mycelium"],
 		"preferredVictoryType": "Culture",
 
