@@ -16,9 +16,6 @@
 			"Invisible to non-adjacent units <in [City] tiles>",
 			"Invisible to non-adjacent units <in [Jungle] tiles>",
 			"Unit will heal every turn, even if it performs an action"],
-			
-    ],
-		"attackSound": "MissileLaunch"
 	       },
 		{
 		"name": "Hyphae Walkers",
@@ -57,7 +54,5 @@
 			"[-100]% maintenance costs",
 			"Never appears as a Barbarian unit"
 		],
-		"attackSound": "missile"
-		]
 	},
 ]
