@@ -1,15 +1,16 @@
 [
 {
-		"name": "The Citadel",
+		"name": "Mycoreseele Hive",
 		"isNationalWonder": true,
-		"production": 15,
+		"production": 5,
 		"science": 5,
-		"gold": 30,
-		"culture": 5,
+		"gold": 10,
+	        "food": 3,
+		"culture": 15,
 	        "faith": 50,
 		"cityStrength": 20,
 		"cost": 1,
-    "uniqueTo": "Citadellium"
+    "uniqueTo": "Mycoreseele"
 		"uniques": ["Provides [20] [Digital Storage Space]",
 			"Provides [30] [Digital Storage Space] <after discovering [Info Networks]>",
 			"Provides [10] [Yairmite]",
@@ -23,11 +24,27 @@
 		],
 	},
 {
-  "name": "Citadellium Armaments",
+  "name": "Hyphaelostones",
   "replaces": "Frontier Armory",
-  "uniqueTo": "Citadellium",
+  "uniqueTo": "Mycoreseele",
   "cost": 1,
   "uniques": ["Military", "New [Military] units start with [1500000000] Experience [in this city]"],
   "requiredTech": "Frontier Armaments",
+},
+	{
+  "name": "Mycelee Networks",
+  "replaces": "Drone Delivery Network",
+  "uniqueTo": "Mycoreseele",
+  "specialistSlots": { "Engineer": 5 },
+  "cost": 140,
+ "percentStatBonus": { "food": 5, "production": 2, "culture": 5 },
+  "requiredTech": "Aerial Drones",
+},
+		{
+  "name": "Domestication of Mycelium",
+  "uniqueTo": "Mycoreseele",
+  "cost": 140,
+  "uniques": ["[+2 Food, +2 Culture] from [Mycelium] tiles [in this city]", "[+2 Food, +2 Faith] from [Jungle] tiles [in all cities]"],
+  "requiredTech": "Genetics",
 },
 ]
