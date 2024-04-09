@@ -1,11 +1,11 @@
 [
   	{
 		//nations
-		"name": "Mycoreseele",
-		"leaderName": "Mycoreseele Hive",
-		"adjective": ["Mycoreseelian"],
-		"startBias": ["Mycelium"],
-		"preferredVictoryType": "Culture",
+		"name": "Elysium",
+		"leaderName": "Elected Council",
+		"adjective": ["Elysian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -22,9 +22,9 @@
 
 		"outerColor": [104, 0, 137],
 		"innerColor": [218, 101, 255],
-		"uniqueName": "Beings of Mycelium",
-		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "[+20]% growth [in all cities] <when not at war>", "Cannot build [Colonizer] units"],
-		"cities": ["Mycoresele"],
+		"uniqueName": "A New Beginning",
+		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "[+20]% growth [in all cities] <when not at war>", "Cannot build [Colonizer] units", "[+40]% Great Person generation [in all cities]"],
+		"cities": ["Elysium"],
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
 
