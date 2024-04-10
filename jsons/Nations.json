@@ -20,8 +20,8 @@
 
 		"tradeRequest": "Perhaps we can sign a trading agreement that will mutually benefit us.",
 
-		"outerColor": [104, 0, 137],
-		"innerColor": [218, 101, 255],
+		"outerColor": [0, 75, 137],
+		"innerColor": [147, 174, 186 ],
 		"uniqueName": "Wall Upon The Sea",
 		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "[+20]% growth [in all cities] <when not at war>", "Cannot build [Colonizer] units", "[+40]% Great Person generation [in all cities]"],
 		"cities": ["Seawall"],
