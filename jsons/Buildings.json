@@ -2,7 +2,7 @@
 {
 		"name": "Seawall Parliament",
 		"isNationalWonder": true,
-		"production": 5,
+		"production": 15,
 		"science": 5,
 		"gold": 10,
 		"culture": 15,
