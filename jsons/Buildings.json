@@ -1,6 +1,6 @@
 [
 {
-		"name": "Elysium Parliament",
+		"name": "Seawall Parliament",
 		"isNationalWonder": true,
 		"production": 5,
 		"science": 5,
@@ -9,7 +9,7 @@
 	        "faith": 50,
 		"cityStrength": 20,
 		"cost": 1,
-    "uniqueTo": "Elysium"
+    "uniqueTo": "Seawall"
 		"uniques": ["Provides [20] [Digital Storage Space]",
 			"Provides [30] [Digital Storage Space] <after discovering [Info Networks]>",
 			"Provides [10] [Yairmite]",
@@ -23,9 +23,9 @@
 		],
 	},
 {
-  "name": "Elysium Military Simulators",
+  "name": "Seawall Armaments",
   "replaces": "Frontier Armory",
-  "uniqueTo": "Elysium",
+  "uniqueTo": "Seawall",
   "cost": 1,
   "uniques": ["Military", "New [Military] units start with [1500000000] Experience [in this city]"],
   "requiredTech": "Frontier Armaments",
@@ -33,7 +33,7 @@
 	{
   "name": "Autonomous Delivery Systems",
   "replaces": "Drone Delivery Network",
-  "uniqueTo": "Elysium",
+  "uniqueTo": "Seawall",
   "specialistSlots": { "Engineer": 5 },
   "cost": 140,
  "percentStatBonus": { "food": 3, "production": 3 },
@@ -41,9 +41,9 @@
 },
 		{
   "name": "Universal Basic Income Facilities",
-  "uniqueTo": "Elysium",
+  "uniqueTo": "Seawall",
   "cost": 140,
-  "uniques": ["[-2 Gold, +2 Happiness, +2 Culture, +2 Science,] per [4] population [in all cities]"],
-  "requiredTech": "Genetics",
+  "uniques": ["[-2 Gold, +2 Happiness, +3 Culture, +2 Science,] per [4] population [in all cities]"],
+  "requiredTech": "Colony Administration",
 },
 ]
