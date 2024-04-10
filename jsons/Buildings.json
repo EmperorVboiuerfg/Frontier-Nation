@@ -43,7 +43,7 @@
   "name": "Universal Basic Income Facilities",
   "uniqueTo": "Seawall",
   "cost": 140,
-  "uniques": ["[-2 Gold, +2 Happiness, +3 Culture, +2 Science,] per [4] population [in all cities]"],
+  "uniques": ["[-2 Gold, +2 Happiness, +3 Culture, +2 Science] per [4] population [in all cities]"],
   "requiredTech": "Colony Administration",
 },
 ]
