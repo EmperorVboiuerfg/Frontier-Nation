@@ -10,7 +10,7 @@
 		"interceptRange": 5,
 		"promotions": ["Network Synchronization"],
 		"cost": 10,
-		"requiredTech": "Next-Gen Armaments",
+		"requiredTech": "Frontier Armaments",
 		"uniques": ["Armored",
 			"[+33]% Strength <vs [Armored] units>",
 			"[+50]% Strength <vs [Infantry] units>",
