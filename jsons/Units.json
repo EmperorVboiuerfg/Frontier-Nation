@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Seawall Autonomous Weapon System",
+		"name": "Seawall Autonomous Defense System",
 		"unitType": "Siege",
 		"uniqueTo": "Seawall",
-		"movement": 1,
-		"range": 3,
+		"movement": 0,
+		"range": 2,
 		"strength": 55,
 		"rangedStrength": 80,
 		"interceptRange": 5,
