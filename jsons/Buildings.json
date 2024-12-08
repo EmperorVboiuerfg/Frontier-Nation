@@ -1,6 +1,6 @@
 [
 {
-		"name": "Seawall Parliament",
+		"name": "Benelux Parliament",
 		"isNationalWonder": true,
 		"production": 20,
 		"science": 5,
@@ -10,7 +10,7 @@
 	        "faith": 50,
 		"cityStrength": 20,
 		"cost": 1,
-    "uniqueTo": "Seawall"
+    "uniqueTo": "Benelux Union"
 		"uniques": ["Provides [20] [Digital Storage Space]",
 			"Provides [30] [Digital Storage Space] <after discovering [Info Networks]>",
 			"Provides [10] [Yairmite]",
