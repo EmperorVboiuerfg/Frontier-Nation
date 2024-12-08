@@ -3,7 +3,7 @@
 		"name": "Beneluxian Parliament",
 		"isNationalWonder": true,
 		"production": 20,
-		"science": 10,
+		"science": 5,
 		"gold": 3,
                 "food": 3,
 		"culture": 15,
