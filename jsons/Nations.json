@@ -1,7 +1,7 @@
 [
   	{
 		//nations
-		"name": "Benelux Union",
+		"name": "Benelux",
 		"leaderName": "Elected Council",
 		"adjective": ["Benelux"],
 		"startBias": ["Coast"],
