@@ -29,7 +29,7 @@
   "replaces": "Frontier Armory",
   "uniqueTo": "Benelux",
   "cost": 1,
-  "uniques": ["Military", "New [Military] units start with [1500000000] Experience [in this city]"],
+  "uniques": ["Military", "New [Military] units start with [1500000000] Experience [in this city]", "All newly-trained [non-air] units [in this city] receive the [Mercenary Pay] promotion"],
   "requiredTech": "Frontier Armaments",
 },
 	{
