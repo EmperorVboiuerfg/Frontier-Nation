@@ -1,16 +1,16 @@
 [
 {
-		"name": "Benelux Parliament",
+		"name": "Beneluxian Parliament",
 		"isNationalWonder": true,
 		"production": 20,
-		"science": 5,
-		"gold": 10,
+		"science": 10,
+		"gold": 3,
                 "food": 3,
 		"culture": 15,
 	        "faith": 50,
 		"cityStrength": 20,
 		"cost": 1,
-    "uniqueTo": "Benelux Union"
+    "uniqueTo": "Benelux"
 		"uniques": ["Provides [20] [Digital Storage Space]",
 			"Provides [30] [Digital Storage Space] <after discovering [Info Networks]>",
 			"Provides [10] [Yairmite]",
@@ -21,13 +21,13 @@
 			"Provides [10] [Promethine]",
 			"Provides [10] [Titanium]",
 			"Indicates the capital city",
-			"[-100]% enemy spy effectiveness [in all cities]",
+			"[-30]% enemy spy effectiveness [in all cities]",
 		],
 	},
 {
-  "name": "Seawall Armaments",
+  "name": "Beneluxian Armaments",
   "replaces": "Frontier Armory",
-  "uniqueTo": "Seawall",
+  "uniqueTo": "Benelux",
   "cost": 1,
   "uniques": ["Military", "New [Military] units start with [1500000000] Experience [in this city]"],
   "requiredTech": "Frontier Armaments",
@@ -35,7 +35,7 @@
 	{
   "name": "Autonomous Delivery Systems",
   "replaces": "Drone Delivery Network",
-  "uniqueTo": "Seawall",
+  "uniqueTo": "Benelux",
   "specialistSlots": { "Engineer": 5 },
   "cost": 140,
  "percentStatBonus": { "food": 8, "production": 10},
@@ -43,9 +43,17 @@
 },
 		{
   "name": "Universal Basic Income Facilities",
-  "uniqueTo": "Seawall",
+  "uniqueTo": "Benelux",
   "cost": 140,
   "uniques": ["[-2 Gold, +3 Happiness, +3 Culture, +3 Science, +2 Food] per [4] population [in all cities]"],
   "requiredTech": "Colony Administration",
+},
+			{
+  "name": "Special Economic Trade Zones",
+  "uniqueTo": "Benelux",
+  "cost": 140,
+  "uniques": ["[+3 Gold, +3 Happiness, +2 Culture]",]
+"percentStatBonus": { "gold": 20},
+  "requiredTech": "Offworld Industries",
 },
 ]
