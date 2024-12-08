@@ -1,7 +1,7 @@
 [
   	{
 		//nations
-		"name": "Benelux Economic Alliance",
+		"name": "Benelux Union",
 		"leaderName": "Elected Council",
 		"adjective": ["Benelux"],
 		"startBias": ["Coast"],
@@ -22,9 +22,9 @@
 
 		"outerColor": [255, 165, 07],
 		"innerColor": [255, 255, 255 ],
-		"uniqueName": "History of Trade",
+		"uniqueName": "Offworld Settlement",
 		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "[+20]% growth [in all cities] <when not at war>", "Cannot build [Colonizer] units", "[+40]% Great Person generation [in all cities]"],
-		"cities": ["Amsterdam", "Brussels", "Luxembourg"]
+		"cities": ["Benelux"]
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
 
