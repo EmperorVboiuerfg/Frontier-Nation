@@ -10,7 +10,7 @@
 	        "faith": 50,
 		"cityStrength": 20,
 		"cost": 1,
-    "uniqueTo": "Mycelite"
+    "uniqueTo": "Mycelia"
 		"uniques": ["Provides [20] [Digital Storage Space]",
 			"Provides [30] [Digital Storage Space] <after discovering [Info Networks]>",
 			"Provides [10] [Yairmite]",
@@ -25,35 +25,21 @@
 		],
 	},
 {
-  "name": "Beneluxian Armaments",
+  "name": "Spawning Pods",
   "replaces": "Frontier Armory",
-  "uniqueTo": "Benelux",
+  "uniqueTo": "Mycelia",
   "cost": 1,
-  "uniques": ["Military", "New [Military] units start with [1500000000] Experience [in this city]", "All newly-trained [non-air] units [in this city] receive the [Mercenary Pay] promotion"],
+  "uniques": ["Military", "New [Military] units start with [1500000000] Experience [in this city]", "All newly-trained [non-air] units [in this city] receive the [Hivemind Hijacker] promotion"],
   "requiredTech": "Frontier Armaments",
 },
 	{
-  "name": "Autonomous Delivery Systems",
+  "name": "Spore Production",
   "replaces": "Drone Delivery Network",
-  "uniqueTo": "Benelux",
+  "uniqueTo": "Mycelia",
+"cityHealth": 25,
   "specialistSlots": { "Engineer": 5 },
   "cost": 140,
  "percentStatBonus": { "food": 8, "production": 10},
   "requiredTech": "Aerial Drones",
-},
-		{
-  "name": "Universal Basic Income Facilities",
-  "uniqueTo": "Benelux",
-  "cost": 140,
-  "uniques": ["[-2 Gold, +3 Happiness, +3 Culture, +3 Science, +2 Food] per [4] population [in all cities]"],
-  "requiredTech": "Colony Administration",
-},
-			{
-  "name": "Special Economic Trade Zones",
-  "uniqueTo": "Benelux",
-  "cost": 140,
-  "uniques": ["[+3 Gold, +3 Happiness, +2 Culture]",]
-"percentStatBonus": { "gold": 20},
-  "requiredTech": "Offworld Industries",
 },
 ]
