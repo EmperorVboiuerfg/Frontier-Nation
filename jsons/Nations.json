@@ -1,10 +1,10 @@
 [
   	{
 		//nations
-		"name": "Benelux",
-		"leaderName": "Elected Council",
-		"adjective": ["Benelux"],
-		"startBias": ["Coast"],
+		"name": "Mycelia",
+		"leaderName": "Mycelium Hive",
+		"adjective": ["Mycelites"],
+		"startBias": ["Jungle"],
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "",
@@ -20,11 +20,11 @@
 
 		"tradeRequest": "Perhaps we can sign a trading agreement that will mutually benefit us.",
 
-		"outerColor": [255, 165, 07],
-		"innerColor": [255, 255, 255 ],
-		"uniqueName": "Offworld Settlement",
+		"outerColor": [161, 8, 198],
+		"innerColor": [189, 0, 172  ],
+		"uniqueName": "Mycelite Rebirth",
 		"uniques": ["[+99999999]% Culture cost of natural border growth [in all cities]", "[+20]% growth [in all cities] <when not at war>", "Cannot build [Colonizer] units", "[+40]% Great Person generation [in all cities]"],
-		"cities": ["Benelux"]
+		"cities": ["Mycelia"]
         "spyNames": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J",]
 	}
 
