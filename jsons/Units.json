@@ -44,7 +44,7 @@
 	},
 			{
 		"name": "Mycon Prime",
-		"unitType": "Xeno Ranged Land"",
+		"unitType": "Xeno Ranged Land"
 		"uniqueTo": "Mycelia",
 		"movement": 1,
 		"strength": 60,
