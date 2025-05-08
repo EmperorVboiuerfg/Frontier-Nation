@@ -37,7 +37,6 @@
 			"[-1] Movement <in [non-[Mycelium]] tiles>",
 			"[+2] Movement <in [Mycelium] tiles>",
 			"Self-destructs when attacking",
-			"
 		],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "ChargeExplosion",
