@@ -1,0 +1,29 @@
+{
+		"name": "Fungal Farms",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"food": 1,
+		"turnsToBuild": 5,
+		"techRequired": "Xenoagriculture",
+		"uniques": [
+			"Does not need removal of [Forest]",
+      "Does not need removal of [Jungle]",
+			"Can also be built on tiles adjacent to fresh water", 
+			"[+1 Food] <after discovering [Education]>",
+			"Only available <for [Mycelia] Civilizations>"
+		],
+		"shortcutKey": "F"
+	},
+{
+		"name": "Fungal Plantation",
+		"uniqueTo": "Mycelia",
+		"turnsToBuild": 6,
+		"gold": 1,
+		"techRequired": "Xenoagriculture",
+		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", 
+					"Can only be built to improve a resource", 
+					"Pillaging this improvement yields approximately [+10 Gold]", 
+					"Does not need removal of [Forest]", 
+      "Does not need removal of [Jungle]",
+					"Will not be displayed in Civilopedia"],
+		"shortcutKey": "P"
+	},
