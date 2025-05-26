@@ -30,7 +30,8 @@
 		"cost": 10,
 		"uniques": [
 			"Xeno",
-			"Unable to attack cities",
+			//"Unable to attack cities",
+			"Can only attack [non-[City]] units",
 			"May capture killed [Military] units <with [100]% chance>",
 			"Never appears as a Barbarian unit",
                         "[-99]% Strength <when defending>",
